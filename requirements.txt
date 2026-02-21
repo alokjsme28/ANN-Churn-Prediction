@@ -3,5 +3,6 @@ matplotlib
 pandas
 numpy
 tensorboard
-streamlit
+streamlit==1.54.0
+protobuf<5
 scikit-learn
